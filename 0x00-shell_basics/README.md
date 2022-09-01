@@ -1,1 +1,1 @@
-teask 10
+task 10
